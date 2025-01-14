@@ -1,0 +1,4 @@
+- hashing of passwords
+- organize by email, website, maybe importance
+- add to database, queries for retrieval
+- GUI
